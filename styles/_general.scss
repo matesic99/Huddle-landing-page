@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    background-image: url(/images/bg-desktop.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: $violet;
+    
+
+}
